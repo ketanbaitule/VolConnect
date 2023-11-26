@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# VolConnect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What is VolConnect?
 
-## Available Scripts
+VolConnect is a simple and friendly website that helps volunteers apply to NGOs and allows NGOs to share opportunities. It's like a hub where you can easily make a positive difference.
 
-In the project directory, you can run:
+## Why Use VolConnect?
 
-### `npm start`
+- **Easy Application:** VolConnect makes it simple for volunteers to find and apply to NGOs.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **NGO Opportunities:** NGOs can also share their opportunities, connecting with volunteers to make a positive impact together.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Decentralized:** VolConnect is fair for everyone. No one person or group has all the control – it's fair and open to all.
 
-### `npm test`
+- **Positive Impact:** By using VolConnect, you can directly contribute to making the world a better place.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to Use VolConnect
 
-### `npm run build`
+1. **Sign Up:** Create an account on VolConnect by providing some basic information.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Explore Opportunities:** Browse through the available opportunities posted by NGOs that need help or NGOs sharing opportunities.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Apply:** When you find an opportunity you like, apply directly to the NGO to start making a positive impact.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. **NGO Sharing:** NGOs can create accounts, share their opportunities, and connect with volunteers.
 
-### `npm run eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+We welcome contributions to make VolConnect even better! If you have ideas or want to report issues, please open an [issue](https://github.com/ketanbaitule/VolConnect/issues) or submit a [pull request](https://github.com/ketanbaitule/VolConnect/pulls).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code to meet your needs.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*VolConnect - Applying to NGOs for Positive Change.*
